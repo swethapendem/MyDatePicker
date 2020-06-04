@@ -1,0 +1,2 @@
+rootProject.name='MyDatePicker'
+include ':app'
